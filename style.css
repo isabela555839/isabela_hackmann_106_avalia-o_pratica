@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: aliceblue ;
+    text-align: center;
+}
+
+img{
+border-radius: 50%;
+margin: 20px;
+}
